@@ -1,7 +1,5 @@
 package cinema.Request;
 
-import java.util.UUID;
-
 public class ReturnTicketRequest {
 
     private String token;
